@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable-v24/background_white_layer.xml" value="0.1" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/background_white_layer.xml" value="0.1" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/border_left_only.xml" value="0.164" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/border_lighten.xml" value="0.164" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/border_right_only.xml" value="0.164" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/btn_border_high_radius.xml" value="0.164" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/btn_border_only.xml" value="0.1" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/btn_border_radius.xml" value="0.1" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/div_border_curved.xml" value="0.1" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/gradient_background.xml" value="0.1" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/ic_notification.xml" value="0.164" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/login_border_back_only.xml" value="0.1" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/planting_steps_background.xml" value="0.1" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/roundimage.xml" value="0.179" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/drawable/text_field_curved_with_border.xml" value="0.235" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/activity_intial.xml" value="0.25" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/activity_plantation_methods.xml" value="0.25" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/activity_plantation_steps.xml" value="0.25" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/activity_register2_step_verification.xml" value="0.25" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/activity_shop_profile.xml" value="0.264" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/activity_shopmap.xml" value="0.264" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/fragment_guide_01.xml" value="0.264" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/fragment_guide_02.xml" value="0.264" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/fragment_guide_03.xml" value="0.264" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/fragment_loading_page.xml" value="0.264" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/plant_method_item.xml" value="0.25" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/plantation_item.xml" value="0.25" />
+        <entry key="..\:/HDP 02 (Android)/Androidprojects/leafGo/app/src/main/res/layout/user_profile.xml" value="0.25" />
+        <entry key="..\:/adnroid/leafGo/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/adnroid/leafGo/app/src/main/res/layout/activity_register.xml" value="0.26875" />
+        <entry key="..\:/adnroid/leafGo/app/src/main/res/layout/plant_method_item.xml" value="0.8800000000000001" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

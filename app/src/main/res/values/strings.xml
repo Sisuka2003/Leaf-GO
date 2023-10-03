@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">leafGo</string>
+    <string name="web_client_id">182177802361-2v41l9ga0k1kji89qshkp1tjfaj6kqso.apps.googleusercontent.com</string>
+    <string name="direction_api_key">AIzaSyCZmASPsYqxBNyH2YzRv_12vCO6qnwDSIg</string>
+    <string name="facebook_app_id">378536694432172</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">ad7afaa62ebdc421ee326932b2149063</string>
+
+
+</resources>
